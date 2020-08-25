@@ -1,5 +1,7 @@
 # 公安备案
 
+![image](https://github.com/YoungFreeCN/Gongan-Beian/banner.jpg)
+
 #### 介绍
 用于 Wordpress 博客申请交互式公安网站备案合规化。该插件可按公安备案要求记录留言和评论用户的 IP 和端口号，以及精确到秒的时间。
 
@@ -19,3 +21,7 @@
 2.  新建分支
 3.  提交代码
 4.  新建 Pull Request
+
+#### 问题反馈
+
+如果有问题，请访问我的博客 [https://www.youngfree.cn/seo/2214.html](https://www.youngfree.cn/seo/2214.html "WordPress评论管理界面添加用户IP端口和时间")
